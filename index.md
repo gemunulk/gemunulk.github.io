@@ -1,6 +1,6 @@
 ## About
 
-I am a QA Engineer (Lead) passionate about new technologies and its applications in the field of Software Quality Engineering. Most of my work is public, including my codes. When I am not coding, I like to play Cricket, Photography or watch YouTube. I blog at medium.com about my technical work.
+I am a QA Engineer (Lead) passionate about new technologies and its applications in the field of Software Quality Engineering. Most of my work is public, including my codes. When I am not coding, I like to play Cricket, Photography or watch YouTube. I blog at [medium.com](https://medium.com/@gemunulk) about my technical work.
 
 ```
 Books I’d Highly Recommend
